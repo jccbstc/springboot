@@ -6,5 +6,9 @@ public class git {
         System.out.print("Hello Git!");
 
         System.out.print("push");
+        System.out.print("push");
+        System.out.print("push");
+        System.out.print("push");
+        
     }
 }
